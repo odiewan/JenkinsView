@@ -1,0 +1,12 @@
+C:\Users\Odie\source\repos\JenkinsView\bin\Release\JenkinsView.exe.config
+C:\Users\Odie\source\repos\JenkinsView\bin\Release\JenkinsView.exe
+C:\Users\Odie\source\repos\JenkinsView\bin\Release\JenkinsView.pdb
+C:\Users\Odie\source\repos\JenkinsView\bin\Release\JenkinsView.xml
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.vbprojAssemblyReference.cache
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.Form1.resources
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.Resources.resources
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.vbproj.GenerateResource.cache
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.vbproj.CoreCompileInputs.cache
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.exe
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.xml
+C:\Users\Odie\source\repos\JenkinsView\obj\Release\JenkinsView.pdb
